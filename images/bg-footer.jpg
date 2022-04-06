@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<!--[if IE]>	<html class="no-js ie"> <![endif]-->
+<!--[if !IE]><!-->	<html class="no-js" lang="pt-br"> <!--<![endif]-->
+
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="google-site-verification" content="JXHBd9esYxvTS5cbDBFlZ2pbEMuJyUV74L0xm3uxjbk">
+
+	<title>Origamid Codex -   Página não encontrada </title>
+	<meta name="description" content="Origamid Codex -   Página não encontrada ">
+
+	<meta name="author" content="Origamid">
+	<meta name="theme-color" content="#693bb6">
+
+	<meta property="og:title" content="Origamid Codex -   Página não encontrada ">
+	<meta property="og:description" content="Origamid Codex -   Página não encontrada ">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.origamid.com/codex/wp-content/themes/web_origamid-codex/img/bg-footer.jpg">
+			<meta property="og:image" content="og-image.png">
+		<meta property="og:site_name" content="Origamid">
+
+	<link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.origamid.com/codex/sitemap.xml">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">
+	<link rel="shortcut icon" href="../favicon.ico">
+	
+	<!-- Wordpress Header -->
+	<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="origamid-style-css" href="../css/style.css" type="text/css" media>
+<script type="text/javascript" src="../js/modernizr.custom.68175.js"></script>
+<link rel="https://api.w.org/" href="https://www.origamid.com/codex/wp-json/">
+	<!-- Wordpress Header -->
+
+	<!-- Typekit -->
+	<script>
+  (function(d) {
+    var config = {
+      kitId: 'bgd7fdx',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+	</script>
+	<!-- Typekit -->
+  <script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MMJ8W5');
+  </script>
+
+</head>
+
+<body>
+<p class="home__superinfo">Planos a partir de R$ 32/mês <a href="/planos/">Inscreva-se Agora</a></p>
+
+<header class="header">
+	<div>
+		<div class="header__logo">
+			<a href="https://www.origamid.com/codex"><svg id="origamid-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 143.1 24.6">
+	<title>Origamid</title>
+	<style>
+		.svg-g { fill: #8E47EF; transition: all .3s ease; }
+		#origamid-svg:hover .svg-g{ fill: white; }
+	</style>
+	<path class="svg-g" d="M68.8 21.2c2.6-.6 5.2-2.1 6.5-5.4H63.4v-3.2h17v1.5H79.6c-1 5.1-4.6 10.3-12.6 10.5l-1.7-1.7s-2.2 1-2.4 1.2c-5.5-1.6-8.7-6.7-8.7-11.7C54 5.3 59.4 0 66.1 0c4 0 6.8 1.2 9.2 3.4l-2 2.7c-1-1.1-3.6-2.9-7.1-2.9-4.8 0-8.8 3.8-8.8 9.2 0 4.5 3.3 8 7.1 8.9l4.3-.1z"/>
+	<path d="M12.3 24.6C5.5 24.6 0 19.1 0 12.3 0 5.4 5.5 0 12.3 0c6.9 0 12.3 5.5 12.3 12.4 0 6.7-5.5 12.2-12.3 12.2zm0-21.4c-3.7 0-6.6 2-8 5.3-.5 1.2-.8 2.5-.8 3.8 0 1.3.3 2.6.8 3.8 1.5 3.3 4.4 5.3 8 5.3 3.9 0 6.9-2.2 8.3-5.9.4-1 .6-2.1.6-3.2 0-4.9-3.7-9.1-8.9-9.1zM39.3 14.8c-.7.3-1.5.4-2.3.4l6.6 8.8h-4.3l-7.8-11h-.1v11H28V.4h7.3c2.2 0 4.6.4 6.3 2C43.1 3.9 43.8 6 43.8 8c0 3.2-1.4 5.8-4.5 6.8zM35.1 3.6h-3.6v9.1h2.4c3.1 0 6.5-.9 6.5-4.6 0-3.1-2.5-4.5-5.3-4.5zM47 24.1V.4h3.5v23.7H47zM108.7 24.1v-20h-.1l-8 20h-2.1l-8-20h-.1v20H87V.4h5.4l7.1 18.1L106.6.4h5.4v23.7h-3.3zM116 24.1V.4h3.5v23.7H116zM140.1 20.7c-2.6 2.6-5.7 3.4-9.2 3.4h-7.6V.4h7.7c3.8 0 7.4 1.2 9.7 4.4 1.5 2.1 2.4 4.9 2.4 7.6 0 2.7-1 6.3-3 8.3zm-1.1-12c-1.4-3.4-4.3-5.1-8-5.1h-4.2V21h4.1c5.4 0 8.7-3.1 8.7-8.6.1-1.3-.2-2.5-.6-3.7zM78.8.4L62.6 24c1.2.4 2.5.6 3.9.6h.5L79.5 4.9h.1v19.2h3.5V.4h-4.3z"/>
+</svg>
+<span class="origamid-site">Codex</span></a>
+		</div>
+		<nav class="header__nav" id="main-menu">
+			<ul>
+				<li><a class href="/cursos/">cursos</a></li>
+				<li><a class href="/planos/">planos</a></li>
+				<li><a class href="/contato/">contato</a></li>
+				<li class="header__login"><a class href="/contato/">login</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+<section class="codex-title">
+	<h1>Mini Posts de Código e Design</h1>
+</section>
+
+<section class="posts container">
+
+<div class="articles">
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/css-display-inline-vs-display-block/"><h1>CSS Display Inline vs Display Block</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 17.304<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 20 de março de 2017</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/como-usar-a-funcao-calc-de-css/"><h1>Como usar a função Calc de CSS</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 8.908<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 20 de março de 2017</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/como-utilizar-media-queries-para-sites-responsivos/"><h1>Como utilizar Media Queries para sites Responsivos</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 7.973<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 20 de março de 2017</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/como-criar-um-scroll-suave-para-links-internos/"><h1>Como criar um Scroll Suave para links internos</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 8.579<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 27 de janeiro de 2017</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/para-que-serve-o-clearfix-no-css/"><h1>Para que serve o Clearfix no CSS</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 4.953<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 27 de janeiro de 2017</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/como-utilizar-os-pseudo-elements-after-e-before-do-css/"><h1>Como utilizar os pseudo-elements ::after e ::before do CSS</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 4.195<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 27 de janeiro de 2017</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/como-animar-ao-scroll-com-jquery/"><h1>Como animar ao Scroll com jQuery</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 10.357<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 27 de janeiro de 2017</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/otimize-seu-css-com-mixins-de-sass/"><h1>Otimize seu CSS com Mixins de SASS</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 6.365<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 19 de janeiro de 2017</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/circulos-com-css/"><h1>Círculos com CSS</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 28.788<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 31 de dezembro de 2016</span>
+			</div>
+		</article>
+		<article class="posts__item">
+			<a class="post-link" href="https://www.origamid.com/codex/css-com-sass/"><h1>CSS com SASS</h1></a>
+			<div class="post-meta">
+				<span class="cat"><a href="https://www.origamid.com/codex/category/codigo/" rel="category tag">Código</a></span>
+				<span class="views">| 6.553<span title="Visualizações" class="eye"></span></span>
+				<span class="date">| 15 de dezembro de 2016</span>
+			</div>
+		</article>
+
+<div class="blog-nav container">
+	<div class="nav-next"></div>
+	<div class="nav-prev"><a href="https://www.origamid.com/codex/wp-content/themes/web_origamid-codex/img/bg-footer.jpg/page/2/">Próxima &#8594;</a></div>
+</div>
+
+</div>
+
+<aside class="sidebar">
+	<form role="search" method="get" class="search-form" action="https://www.origamid.com/codex/">
+	<label>
+		<input type="search" class="search-field" placeholder="Buscar" value name="s" title="Buscar">
+	</label>
+	<input type="submit" class="search-submit" value="Pesquisar">
+</form>	<h2>Categorias</h2>
+	<ul class="cat-list">
+			<li class="cat-item cat-item-2"><a href="https://www.origamid.com/codex/category/codigo/">Código</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://www.origamid.com/codex/category/design/">Design</a>
+</li>
+	</ul>
+</aside>
+
+</section>
+
+<footer>
+	<div class="footer">
+		<div class="container">
+			<div class="footer__mapa">
+				<h3 class="footer__title">Mapa do Site</h3>
+				<ul>
+					<li><a href="/">home</a></li>
+					<li><a href="/minha-conta/">minha conta</a></li>
+					<li><a href="/planos/">planos</a></li>
+					<li><a href="/cursos/">cursos</a></li>
+					<li><a href="/contato/">contato</a></li>
+					<li><a href="/termos-e-condicoes/">termos</a></li>
+					<li><a href="/politica-de-privacidade/">privacidade</a></li>
+				</ul>
+			</div>
+			<div class="footer__contato">
+				<h3 class="footer__title">Contato</h3>
+				<ul>
+					<li>contato@origamid.com</li>
+					<li><a href="https://www.facebook.com/origamid" target="_blank">facebook.com/origamid</a></li>
+				</ul>
+			</div>
+			<div class="footer__seguranca">
+				<h3 class="footer__title">Garantia</h3>
+				<ul>
+					<li><a href="/contato/#perguntas"><img src="selo-seguranca-ssl.png" alt="Selo de Segurança SSL - Origamid possui selo SSL o que garante a criptografia das informações digitadas no mesmo." title="Selo de Segurança SSL - Origamid possui selo SSL o que garante a criptografia das informações digitadas no mesmo."></a></li>
+					<li><a href="/contato/#perguntas"><img src="selo-satisfacao-garantida.png" alt="Satisfação Origamid garantida. Produto feito a mão e com altíssima qualidade." title="Satisfação Origamid garantida. Produto feito a mão e com altíssima qualidade."></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="copy">
+		<div class="container">
+			<ul>
+				<li><a href="https://www.origamid.com">origamid</a></li>
+				<li><a href="https://www.origamid.com/pro/">origamid pro</a></li>
+				<li><a href="https://www.origamid.com/codex/">origamid codex</a></li>
+				<li><a href="https://www.origamid.com/books/tipografia-para-web/">origamid books</a></li>
+			</ul>
+			<p>Origamid © 2012 - 2022. Alguns direitos reservados. CNPJ: 23.811.568/0001-98</p>
+			<p class="copy__dados">Rua Lauro Müller, 116, 32º andar, sala 3201 - Botafogo - Rio de Janeiro - RJ - 22290-160</p>
+			<a class="origamid__sign" href="https://www.origamid.com"><img src="origamid-lobo-branco.png" alt="Feito a mão por Origamid"></a>
+		</div>
+	</div>
+</footer>
+
+
+	<!-- Footer do Wordpress -->
+	<script type="text/javascript" src="../js/jquery-1.12.1.min.js"></script>
+<script type="text/javascript" src="../js/plugins.min.js"></script>
+<script type="text/javascript" src="../js/main.min.js"></script>
+	<!-- Footer do Wordpress -->
+
+</body>
+</html>
